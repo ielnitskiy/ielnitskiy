@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  mobile development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-Telegram: @[IvnSkiy](https://t.me/IvnSkiy)
+Telegram: [@IvnSkiy](https://t.me/IvnSkiy)
 
 
 <!---
